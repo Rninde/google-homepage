@@ -1,0 +1,50 @@
+
+
+li {
+	display:inline;
+}
+
+img {
+	display:block;
+	margin:auto;
+	width: 272px;
+	height: 92px;
+	margin-top: 151px;
+}
+
+#navbar {
+	text-align: right;
+	padding:10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	margin-top: 7px;
+	margin-right:10px;
+
+}
+#navbar li {
+	margin-left: 7px;
+	margin-right: 10px;
+	color:#3F3F3F;
+
+}
+#navbar #sign {
+	background-color:#4285f4;
+	color:white;
+	font-weight: bold;
+	padding: 7.5px 13px 7.5px 13px;
+	border-radius:2px;
+}
+td div {
+	background-color:#737373;
+	width:4px;
+	height:4px;
+	margin:1px;
+
+}
+#app {
+	display:inline-block;
+	position:relative;
+	bottom:0px;
+	top:5px;
+}
+
